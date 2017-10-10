@@ -281,3 +281,13 @@ button {
 .home-wrapper {
     margin-top: 1rem;
 }
+
+.question-whole{
+    padding: 1%;
+    margin: 1%;
+}
+
+.question{
+    font-size: 1.5em;
+    
+}

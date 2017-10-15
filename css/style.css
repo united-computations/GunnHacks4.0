@@ -296,7 +296,6 @@ button {
 }
 
 .symbol h3{
-    display: inline-block;
     float: left;
     margin-top: 0.01em!important;
     margin-bottom: 0;

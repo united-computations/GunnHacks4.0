@@ -153,7 +153,7 @@ a, button {
 
 a {
   color:white!important;
-  text-decoration: underline!important;
+  text-decoration: underline;
 }
 
 a:hover, button:hover {
@@ -302,4 +302,8 @@ button {
     margin-top: 0.01em!important;
     margin-bottom: 0;
     margin-right: 1em;
+}
+
+.sponsor-images a {
+    text-decoration: none;
 }
